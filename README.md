@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Node, MongoDB, etc.**
 
-- 📫 How to reach me **20bcs097@iiitdwd.ac.in**
+- 📫 How to reach me **vaghanibrij222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
