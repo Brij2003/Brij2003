@@ -24,7 +24,7 @@
 ###
 
 <p align="left">
-- 🔭 I’m currently working on **Vidkarya**
+- 🔭 I’m currently working on Vidkarya
 
 - 🌱 I’m currently learning **MERN, OOP's, Machine/Deep Learning**
 
