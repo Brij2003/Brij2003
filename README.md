@@ -109,7 +109,7 @@
 
 ###
 
-<img src="https://github.com/Brij2003/Brij2003/blob/7f1c2c1586db03a5d6030f0786b1eee6243d0f12/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Brij2003/Brij2003/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
